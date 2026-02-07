@@ -1,4 +1,4 @@
-**# HTML-Notes******# HTML & Web Fundamentals – 
+# HTML NOTES
 
 These notes are written for **deep conceptual understanding**, **exam preparation**, and **long-term reference**. Each topic is explained thoroughly, focusing on *why it exists*, *how it works*, and *why it matters*.
 
